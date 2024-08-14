@@ -17,19 +17,16 @@ LeetCode is an essential tool for software engineers to sharpen their problem-so
 
 ## Repository Structure
 
-The repository is organized by problem type, with a current focus on arrays and strings:
+The repository is organized by problem type and difficulty:
 
 ```
 .
-├── Arrays
-│   ├── TwoSum.java
-│   ├── RemoveDuplicates.java
-│   └── ...
-├── Strings
-│   ├── LongestSubstringWithoutRepeatingCharacters.java
-│   └── ...
-├── README.md
-└── ...
+└── Arrays
+    ├── Easy
+    │   └── EasySolutions.java
+    ├── Medium
+    │   └── MediumSolutions.java
+└── README.md
 ```
 
 ## How to Use
