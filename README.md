@@ -22,10 +22,18 @@ The repository is organized by problem type and difficulty:
 ```
 .
 └── Arrays
+    |
     ├── Easy
-    │   └── EasySolutions.java
+    │   └── ProblemName
+    |       └──Solution.java
+    |       |──ReadMe.md
+    |
     ├── Medium
-    │   └── MediumSolutions.java
+         └──ProblemName
+            |___Solution.java
+            |___ReadMe.md
+           
+       
 └── README.md
 ```
 

@@ -1,4 +1,4 @@
-package LengthOfLastWord;
+package Solutions.LengthOfLastWord;
 
 public class Solution {
     /*
