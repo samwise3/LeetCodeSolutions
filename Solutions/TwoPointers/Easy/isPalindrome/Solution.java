@@ -1,4 +1,4 @@
-package Solutions.TwoPointers.isPalindrome;
+package Solutions.TwoPointers.Easy.isPalindrome;
 
 public class Solution {
       /* 

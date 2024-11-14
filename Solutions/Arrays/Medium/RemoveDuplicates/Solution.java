@@ -1,4 +1,4 @@
-package Solutions.Arrays.Medium.RemoveDuplicates;
+package RemoveDuplicates;
 
 public class Solution {
     /*
